@@ -1,0 +1,14 @@
+Flask
+Flask-SQLAlchemy
+Flask-Cors
+sentence-transformers
+transformers
+torch
+python-dotenv
+pdfminer.six
+docx2txt
+fpdf2
+python-docx
+requests
+PyPDF2
+groq
